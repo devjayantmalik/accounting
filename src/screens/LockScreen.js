@@ -1,25 +1,19 @@
 import React from 'react';
 import {
   Container,
-  View,
   Content,
   Body,
   Text,
   Icon,
-  Title,
-  Item,
   Button,
   Card,
   CardItem,
   Left,
-  Form,
-  Label,
   Right,
-  Input,
   Thumbnail,
 } from 'native-base';
 
-import InputOutline from '../components/OutlinedInput';
+import InputOutline from '../components/common/OutlinedInput';
 
 const LockScreen = () => {
   return (
